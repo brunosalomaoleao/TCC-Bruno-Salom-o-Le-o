@@ -1,0 +1,15 @@
+{
+	"number_of_molecules": 100000,
+	"initial_concentration": 5,
+	"initial_molecules": 
+		[{"molecule": "AA", "endgroup": "A", "order": 1},
+		 {"molecule": "BB", "endgroup": "B", "order": 1}],
+	"byproduct": "C",
+	"temperature": 450,
+	"kinetics":
+		{
+			"a": 0.00000967,
+			"Ea": 59500
+		},
+	"source": "https://onlinelibrary.wiley.com/doi/abs/10.1002/mren.201000021"
+}
